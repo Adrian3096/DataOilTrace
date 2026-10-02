@@ -180,7 +180,7 @@ Este proyecto se desarrolló con apoyo de **Claude (Anthropic)** para revisión 
 ## Equipo
 
 <!-- Completa con los nombres del equipo -->
-- **[Nombre del equipo]**: [integrantes]
+- **[DataOilTrace]**: Adrian David Salcedo Leal
 
 ## Enlaces
 

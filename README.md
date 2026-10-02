@@ -184,7 +184,7 @@ Este proyecto se desarrolló con apoyo de **Claude (Anthropic)** para revisión 
 
 ## Enlaces
 
-- 🎥 Video de demostración: _[pega aquí el enlace]_
+- 🎥 Video de demostración: https://drive.google.com/file/d/1hvspQ92Y4vyXjX9mHo2YVKXxBab-TWUU/view?usp=sharing]
 - 🔍 Topic en HashScan: https://hashscan.io/testnet/topic/0.0.10810981
 
 ## Licencia

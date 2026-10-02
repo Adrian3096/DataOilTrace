@@ -175,7 +175,7 @@ python -m unittest discover -s tests
 ## Uso de herramientas de IA
 
 <!-- Los lineamientos del hackathon piden declarar las herramientas de IA utilizadas. Completa y ajusta. -->
-Este proyecto se desarrolló con apoyo de **Claude (Anthropic)** para revisión de código, integración con el SDK de Hedera y diseño de la interfaz. La arquitectura, las decisiones de diseño y las pruebas fueron revisadas y ejecutadas por el equipo.
+Este proyecto se desarrolló con apoyo de **Claude (Anthropic)** para revisión de código, integración con el SDK de Hedera y diseño de la interfaz. La arquitectura, las decisiones de diseño y las pruebas fueron revisadas y ejecutadas por el autor.
 
 ## Equipo
 

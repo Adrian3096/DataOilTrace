@@ -1,0 +1,12 @@
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Python virtual environments and generated files
+.venv/
+__pycache__/
+*.py[cod]
+storage/versions.sqlite3
+storage/versions.sqlite3-*
+storage/snapshots/
